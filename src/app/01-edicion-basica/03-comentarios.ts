@@ -4,7 +4,8 @@
 
     Tips:
         ⌘ /
-        Ctrl + /
+        
+        Ctrl + \
 */
 
 const a = 10;
