@@ -9,9 +9,9 @@
         ⌃ ⇧ L
 
         Ctrl + Alt+ ↑ / ↓
-        Ctrl + Shift + U
-        Ctrl + Shift + L
-
+        Ctrl + P -> uppercase
+        Ctrl + P -> lowercase
+        
     Pro:
         Mostrar la paleta de comandos
         ⇧ ⌘ P, F1
