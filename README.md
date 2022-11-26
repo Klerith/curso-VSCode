@@ -24,7 +24,7 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-## Short-Code VSCODE
+## Short-Code VSCODE WINDOWS
 
 PDFs oficiales de la documentación de Visual Studio Code:
 
@@ -33,5 +33,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
 3. Atajos en **[LINUS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)**
 
 * 'ctrl + shitf + p' => Paleta de comandos.
-* 
-
+* 'ctrl + b' => Cerramos menú lateral.
+* 'alt + ↑' 'Alt + ↓' => Movimiento de lineas.
+* 'shitf + tab' => Eliminar Sangria.
