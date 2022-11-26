@@ -26,4 +26,12 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 ## Short-Code VSCODE
 
+PDFs oficiales de la documentación de Visual Studio Code:
+
+1. Atajos en **[WINDOWS.](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)**
+2. Atajos en **[MAC OSX](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)**
+3. Atajos en **[LINUS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)**
+
+* 'ctrl + shitf + p' => Paleta de comandos.
+* 
 
