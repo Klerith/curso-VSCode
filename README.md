@@ -32,7 +32,17 @@ PDFs oficiales de la documentación de Visual Studio Code:
 2. Atajos en **[MAC OSX](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)**
 3. Atajos en **[LINUS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)**
 
-* 'ctrl + shitf + p' => Paleta de comandos.
-* 'ctrl + b' => Cerramos menú lateral.
-* 'alt + ↑' 'Alt + ↓' => Movimiento de lineas.
-* 'shitf + tab' => Eliminar Sangria.
+* **'Ctrl + Shitf + p'** => Paleta de comandos.
+* **'Ctrl + b'** => Cerramos menú lateral.
+
+* **'Alt + ↑'** => Movimiento de lineas hacia Arriba 
+* **'Alt + ↓'**  => Movimiento de lineas hacia Abajo.
+* **'Shitf + Tab'** => Eliminar Sangria.
+
+* **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior.
+* **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior.
+
+* **'Ctrl + k   Ctrl + c'** => Comentamos lineas de codigo.
+* **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo.
+* **'Shitf + Alt + A'** => Comentamos el codigo seleccionado.
+
