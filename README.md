@@ -48,3 +48,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Ctrl + Click'** => Creación rapido de la ruta de archivo
 
+* **'Alt + F12'** =>  Ojear definición  
+* **'F12'**  =>   Ir a la definición 
+
