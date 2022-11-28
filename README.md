@@ -34,6 +34,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Ctrl + Shitf + p'** => Paleta de comandos.
 * **'Ctrl + b'** => Cerramos menú lateral.
+* **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
 
 * **'Alt + ↑'** => Movimiento de lineas hacia Arriba 
 * **'Alt + ↓'**  => Movimiento de lineas hacia Abajo.
@@ -56,10 +57,14 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 
 * **'Ctrl +Z'** => deshacer P
-* **'Ctrl + Shift + Z'** => **Rehacer**
+* **'Ctrl + Shift + Z'** => **Rehacer**.
 
 * **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
 
 * **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada
+
+* **'Ctrl + Shift + a** => **wrap with Abbreviation**, agregamos marquilla a la seleccion como: <code>, <ul>,  entre otras
+
+
 
 
