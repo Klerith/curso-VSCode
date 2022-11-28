@@ -32,38 +32,38 @@ PDFs oficiales de la documentación de Visual Studio Code:
 2. Atajos en **[MAC OSX](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)**
 3. Atajos en **[LINUS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)**
 
-* **'Ctrl + Shitf + p'** => Paleta de comandos.
-* **'Ctrl + b'** => Cerramos menú lateral.
+* **'Ctrl + Shitf + p'** => Paleta de comandos. 
+* **'Ctrl + b'** => Cerramos menú lateral. 
 * **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
 
-* **'Alt + ↑'** => Movimiento de lineas hacia Arriba 
-* **'Alt + ↓'**  => Movimiento de lineas hacia Abajo.
+* **'Alt + ↑'** => Movimiento de lineas hacia Arriba.  
+* **'Alt + ↓'**  => Movimiento de lineas hacia Abajo. 
 * **'Shitf + Tab'** => Eliminar Sangria.
 
-* **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior.
-* **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior.
-* **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección.**
+* **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior. 
+* **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior. 
+* **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección**.
 
-* **'Ctrl + k   Ctrl + c'** => Comentamos lineas de codigo.
-* **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo.
+* **'Ctrl + k   Ctrl + c'** => Comentamos lineas de codigo. 
+* **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo. 
 * **'Shitf + Alt + A'** => Comentamos el codigo seleccionado.
 
-* **'Ctrl + Click'** => Creación rapido de la ruta de archivo
+* **'Ctrl + Click'** => Creación rapido de la ruta de archivo.
 
-* **'Alt + F12'** =>  Ojear definición  
-* **'F12'**  =>   Ir a la definición
+* **'Alt + F12'** =>  Ojear definición.  
+* **'F12'**  =>   Ir a la definición.
 
 * **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
 
 
-* **'Ctrl +Z'** => deshacer P
+* **'Ctrl +Z'** => deshacer P. 
 * **'Ctrl + Shift + Z'** => **Rehacer**.
 
 * **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
 
-* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada
+* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
 
-* **'Ctrl + Shift + a** => **wrap with Abbreviation**, agregamos marquilla a la seleccion como: <code>, <ul>,  entre otras
+* **'Ctrl + Shift + a** => **wrap with Abbreviation**, agregamos marquilla a la seleccion como: <code>, <ul>,  entre otras.
 
 
 
