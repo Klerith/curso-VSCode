@@ -41,6 +41,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior.
 * **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior.
+* **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección.**
 
 * **'Ctrl + k   Ctrl + c'** => Comentamos lineas de codigo.
 * **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo.
@@ -49,5 +50,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + Click'** => Creación rapido de la ruta de archivo
 
 * **'Alt + F12'** =>  Ojear definición  
-* **'F12'**  =>   Ir a la definición 
+* **'F12'**  =>   Ir a la definición
+
+* **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
 
