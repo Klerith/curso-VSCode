@@ -20,7 +20,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + b'** => Cerramos menú lateral. 
 * **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Movimiento de lineas.
 
@@ -28,7 +27,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Alt + ↓'**  => Movimiento de lineas hacia Abajo. 
 * **'Shitf + Tab'** => Eliminar Sangria.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Selección.
 
@@ -37,7 +35,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección**.
 * **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Comentarios.
 
@@ -45,20 +42,16 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo. 
 * **'Shitf + Alt + A'** => Comentamos el codigo seleccionado.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Rutas.
 
 * **'Ctrl + Click'** => Creación rapido de la ruta de archivo.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Navegar definición.
 
 * **'Alt + F12'** =>  Ojear definición.  
 * **'F12'**  =>   Ir a la definición.
-
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Borrar, deshacer y rehacer.
 
@@ -66,13 +59,11 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl +Z'** => deshacer P. 
 * **'Ctrl + Shift + Z'** => **Rehacer**.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Modo Zen
 
 * **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
 
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Wrap abbreviation
 
@@ -82,7 +73,6 @@ PDFs oficiales de la documentación de Visual Studio Code:
  <ul></ul>,  
  entre otras.
  ```
-&nbsp;<!-- SALTO DE LINEA -->
 
 ### Navegación entre ventanas.
 
