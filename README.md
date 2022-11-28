@@ -16,7 +16,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 ### Shortcuts principales.
 
-* **'Ctrl + Shitf + p'** => Paleta de comandos. 
+* **'Ctrl + Shitf + p'** => Paleta de comandos.   
 * **'Ctrl + b'** => Cerramos menú lateral. 
 * **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
 
