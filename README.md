@@ -72,6 +72,15 @@ PDFs oficiales de la documentación de Visual Studio Code:
  ```
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Navegación entre ventanas.
+
+* **'Ctrl + W'** => Cerrar tab o ventana
+* **'Ctrl + K  Ctrl + W'** => Cerrar todas las ventanas
+* **'Ctrl + Shift + T'** => Reabrir ventana anterior
+* **'Ctrl + TAB'** => Cambiar de tab o ventana
+
+&nbsp;<!-- SALTO DE LINEA -->
+
 ## Extensiones
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
