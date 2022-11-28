@@ -46,3 +46,5 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo.
 * **'Shitf + Alt + A'** => Comentamos el codigo seleccionado.
 
+* **'Ctrl + Click'** => Creación rapido de la ruta de archivo
+
