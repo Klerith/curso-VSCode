@@ -58,3 +58,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl +Z'** => deshacer 
 * **'Ctrl + Shift + Z'** => **Rehacer**
 
+* **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
+
+
+
