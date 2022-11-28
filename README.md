@@ -55,10 +55,11 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
 
 
-* **'Ctrl +Z'** => deshacer 
+* **'Ctrl +Z'** => deshacer P
 * **'Ctrl + Shift + Z'** => **Rehacer**
 
 * **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
 
+* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada
 
 
