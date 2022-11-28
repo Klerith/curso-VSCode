@@ -14,11 +14,15 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Shortcuts principales.
+
 * **'Ctrl + Shitf + p'** => Paleta de comandos. 
 * **'Ctrl + b'** => Cerramos menú lateral. 
 * **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
 
 &nbsp;<!-- SALTO DE LINEA -->
+
+### Movimiento de lineas.
 
 * **'Alt + ↑'** => Movimiento de lineas hacia Arriba.  
 * **'Alt + ↓'**  => Movimiento de lineas hacia Abajo. 
@@ -26,11 +30,16 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Selección.
+
 * **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior. 
 * **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior. 
 * **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección**.
+* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
 
 &nbsp;<!-- SALTO DE LINEA -->
+
+### Comentarios.
 
 * **'Ctrl + k   Ctrl + c'** => Comentamos lineas de codigo. 
 * **'Ctrl + k   Ctrl + u'** => Descomentamos lineas de codigo. 
@@ -38,31 +47,34 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Rutas.
+
 * **'Ctrl + Click'** => Creación rapido de la ruta de archivo.
 
 &nbsp;<!-- SALTO DE LINEA -->
+
+### Navegar definición.
 
 * **'Alt + F12'** =>  Ojear definición.  
 * **'F12'**  =>   Ir a la definición.
 
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Borrar, deshacer y rehacer.
+
 * **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
-
-&nbsp;<!-- SALTO DE LINEA -->
-
 * **'Ctrl +Z'** => deshacer P. 
 * **'Ctrl + Shift + Z'** => **Rehacer**.
 
 &nbsp;<!-- SALTO DE LINEA -->
 
+### Modo Zen
+
 * **'Ctrl + K Z'** => Mode Zen, es decir entra al modo sin distracciones.
 
 &nbsp;<!-- SALTO DE LINEA -->
 
-* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
-
-&nbsp;<!-- SALTO DE LINEA -->
+### Wrap abbreviation
 
 * **'Ctrl + Shift + a** => **wrap with Abbreviation**, agregamos marquilla a la seleccion como:
  ``` 
