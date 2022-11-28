@@ -54,3 +54,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
 
+
+* **'Ctrl +Z'** => deshacer 
+* **'Ctrl + Shift + Z'** => **Rehacer**
+
