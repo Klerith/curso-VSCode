@@ -84,6 +84,13 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Shitf + Alt + d'** => Clonar líneas ( Copy Line Down)
 
+### Manejo **Multicursor**
+
+* **'Ctrl + Alt+ ↑'** =>  Crear cursor arriba
+* **'Ctrl + Alt+ ↓'** =>  Crear cursor abajo
+
+
+
 &nbsp;<!-- SALTO DE LINEA -->
 
 ## Extensiones
