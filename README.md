@@ -56,7 +56,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 ### Borrar, deshacer y rehacer.
 
 * **'Ctrl + Shift + K'** => Borrar un bloque de código linea seleccionado.
-* **'Ctrl +Z'** => deshacer P. 
+* **'Ctrl + Z'** => deshacer P. 
 * **'Ctrl + Shift + Z'** => **Rehacer**.
 
 
@@ -80,6 +80,9 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + K  Ctrl + W'** => Cerrar todas las ventanas
 * **'Ctrl + Shift + T'** => Reabrir ventana anterior
 * **'Ctrl + TAB'** => Cambiar de tab o ventana
+
+
+* **'Shitf + Alt + d'** => Clonar líneas ( Copy Line Down)
 
 &nbsp;<!-- SALTO DE LINEA -->
 
