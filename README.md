@@ -19,6 +19,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + Shitf + p'** => Paleta de comandos.   
 * **'Ctrl + b'** => Cerramos menú lateral. 
 * **'Ctrl + k  Ctrl + s'** => **Abrir Keyboard Shortcuts** En el podremos configurar nuestros propios Shortcuts.
+* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
 
 
 ### Movimiento de lineas.
@@ -33,7 +34,8 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Shitf + ↑'** => Selecciona las lineas que se encuentran en la parte superior. 
 * **'Shitf + ↓'** => Selecciona las lineas que se encuentran en la parte inferior. 
 * **'Ctrl + Shift + L'** => **Seleccionar todas las ocurrencias de la selección**.
-* **'Ctrl + Shift + ñ'** => Abrir Terminal Integrada.
+* **'Shift + Alt + ↦'** => Seleccionamos la palabra
+
 
 
 ### Comentarios.
@@ -86,8 +88,10 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 ### Manejo **Multicursor**
 
-* **'Ctrl + Alt+ ↑'** =>  Crear cursor arriba
-* **'Ctrl + Alt+ ↓'** =>  Crear cursor abajo
+* **'Ctrl + Alt + ↑'** =>  Crear cursor arriba
+* **'Ctrl + Alt + ↓'** =>  Crear cursor abajo
+
+
 
 
 
