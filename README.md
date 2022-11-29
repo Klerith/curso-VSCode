@@ -90,12 +90,17 @@ PDFs oficiales de la documentación de Visual Studio Code:
 
 * **'Ctrl + Alt + ↑'** =>  Crear cursor arriba.
 * **'Ctrl + Alt + ↓'** =>  Crear cursor abajo.
-* **'Ctrl + ↦'** => Me permite colocar el cursor en la inicial de la siguiente palabra
+* **'Ctrl + ↦'** => Me permite colocar el cursor en la inicial de la siguiente palabra.
+* **'Mantener Alt + Doble click'** => Multiples cursores en posiciones especificas.
+* **'Mantener Alt + Seleccionar'** => Multiples cursores en posiciones especificas y la palabra lleva separador.
 
 ### Manejo de **Lowercase y Uppercase**
 
 * **'Ctrl + Shift + U'** =>  Convierte las palabra seleccionadas en mayusculas.
 * **'Ctrl + Shift + L'** =>  Convierte las palabra seleccionadas en minisculas.
+
+        
+        
 
 
 
