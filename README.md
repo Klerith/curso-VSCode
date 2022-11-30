@@ -76,6 +76,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
  entre otras.
  ```
 
+
 ### Navegación entre ventanas.
 
 * **'Ctrl + W'** => Cerrar tab o ventana
@@ -93,6 +94,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + ↦'** => Me permite colocar el cursor en la inicial de la siguiente palabra.
 * **'Mantener Alt + Doble click'** => Multiples cursores en posiciones especificas.
 * **'Mantener Alt + Seleccionar'** => Multiples cursores en posiciones especificas y la palabra lleva separador.
+ * **'Ctrl + d'** => **Multiples cursores sobre la palabra seleccionada**.
 
 ### Manejo de **Lowercase y Uppercase**
 
