@@ -101,13 +101,7 @@ PDFs oficiales de la documentación de Visual Studio Code:
 * **'Ctrl + Shift + U'** =>  Convierte las palabra seleccionadas en mayusculas.
 * **'Ctrl + Shift + L'** =>  Convierte las palabra seleccionadas en minisculas.
 
-        
-        
-
-
-
-
-
+ 
 
 &nbsp;<!-- SALTO DE LINEA -->
 
