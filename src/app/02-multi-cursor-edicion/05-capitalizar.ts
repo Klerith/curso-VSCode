@@ -20,11 +20,11 @@
 
 function capitalizados() {
 
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
+    const Hulk       = 'Brouce Banner';
+    const Hawkeye    = 'Cinton Francis';
+    const Ironman    = 'Tony Stark';
+    const Spiderman  = 'Peter Parker';
+    const ViudaNegra = 'Natalia Romanova';
 
 }
 
